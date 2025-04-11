@@ -34,8 +34,6 @@ Laravel adalah salah satu framework PHP paling populer dan powerful yang digunak
 
 ![Packagist.org](images/vscode2.png)
 
-- Klik **Start All** untuk menjalankan laragon
-
 ### ✅ 2. Instal Laragon
 
 - Unduh Laragon dari [https://laragon.org](https://laragon.org/download/)
