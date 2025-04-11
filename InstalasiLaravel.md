@@ -2,7 +2,7 @@
 
 ## 📌 Apa itu Laravel?
 
-Laravel adalah framework PHP modern yang digunakan untuk membangun aplikasi web secara efisien. Laravel memiliki fitur seperti routing, autentikasi, dan template engine yang kuat.
+Laravel adalah salah satu framework PHP paling populer dan powerful yang digunakan untuk membangun aplikasi web modern secara cepat, elegan, dan efisien. Dibangun dengan prinsip MVC (Model-View-Controller), Laravel menyediakan berbagai fitur bawaan seperti routing, sistem autentikasi, manajemen database dengan Eloquent ORM, templating dengan Blade, sistem migrasi, serta Artisan CLI yang mempermudah pengembangan. Laravel juga didukung oleh ekosistem yang luas seperti Laravel Mix, Sanctum, dan Jetstream, serta komunitas yang aktif, sehingga sangat ideal untuk proyek skala kecil hingga besar. Framework ini dirancang untuk meningkatkan produktivitas developer dengan sintaks yang bersih dan dokumentasi yang lengkap.
 
 ---
 
